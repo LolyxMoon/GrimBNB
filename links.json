@@ -1,8 +1,8 @@
 {
-  "x": "https://x.com/GrimBNB",
+  "x": "https://x.com/",
   "tg": "https://telegram.com",
-  "dexscreener": "https://dexscreener.com/bsc/0x5173012bcb2362f6559f3383b3d8deb068004444",
-  "dextools": "https://www.dextools.io/app/en/bnb/pair-explorer/0x61851d5cd0b510c2e32cbddf8625a96a52ecd8c9?t=1760615216732",
-  "buy": "https://pancakeswap.finance/swap?outputCurrency=0x5173012bcb2362f6559f3383b3d8deb068004444",
-  "ca": "0x5173012bcb2362f6559f3383b3d8deb068004444"
+  "dexscreener": "https://dexscreener.com/bsc/0x444444444",
+  "dextools": "https://www.dextools.io/app/en/bnb/pair-explorer/0x4444444444",
+  "buy": "https://pancakeswap.finance/swap?outputCurrency=0x4444444",
+  "ca": "0x44444"
 }
