@@ -1,8 +1,6 @@
 {
-  "x": "https://x.com/",
+  "x": "https://x.com/grim_flap",
   "tg": "https://telegram.com",
-  "dexscreener": "https://dexscreener.com/bsc/0x444444444",
-  "dextools": "https://www.dextools.io/app/en/bnb/pair-explorer/0x4444444444",
   "buy": "https://pancakeswap.finance/swap?outputCurrency=0x4444444",
   "ca": "0x44444"
 }
